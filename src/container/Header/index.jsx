@@ -17,8 +17,8 @@ const Header = () => {
           pedir permissão.
         </p>
         <div className="gpt3__header-content__input">
-          <input type="email" placeholder="Your email address" />
-          <button type="button">Get Started</button>
+          <input type="email" placeholder="Digite seu email" />
+          <button type="button">Enviar</button>
         </div>
         <div className="gpt3__header-content__people">
           <img src={people} alt="people" />

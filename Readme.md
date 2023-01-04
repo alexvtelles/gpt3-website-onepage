@@ -1,4 +1,4 @@
-# UI/UX GPT=3
+# Website Onepage GPT-3
 
 <img src="./src/assets/gpt3.png">
 

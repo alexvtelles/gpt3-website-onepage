@@ -3,7 +3,10 @@
   justify-content: space-between;
   align-items: center;
 
-  padding: 2rem 6rem;
+  padding: 2rem 1rem;
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
 }
 
 .gpt3__navbar-links {
@@ -40,8 +43,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 25px;
-  text-transform: capitalize;
-
+  text-transform: uppercase;
   margin: 0 1rem;
   cursor: pointer;
 }
